@@ -1,0 +1,15 @@
+pmdarima
+pandas
+matplotlib
+numpy
+statsmodels
+scipy
+sklearn
+pmdarima
+isodate
+bokeh
+monthdelta
+jupyter
+tensorflow-macos; sys_platform == 'darwin'
+tensorflow; sys_platform == 'linux'
+keras
